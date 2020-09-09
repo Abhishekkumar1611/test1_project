@@ -5,7 +5,7 @@ int main()
 	int b=9;
 	int c;
 	c=a+b;
-	printf("%d",c);
+	printf("%d/n",c);
 }
 
 
